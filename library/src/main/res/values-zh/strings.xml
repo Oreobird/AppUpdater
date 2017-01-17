@@ -9,4 +9,6 @@
     <string name="appupdater_btn_update">更新</string>
     <string name="appupdater_btn_disable">不再提示</string>
     <string name="appupdater_btn_dismiss">取消</string>
+    <string name="appupdater_progress_dialog_title">检查新版本</string>
+    <string name="appupdater_progress_dialog_content">请等待</string>
 </resources>
